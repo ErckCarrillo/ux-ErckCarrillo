@@ -1,1 +1,2 @@
-# ___'s UX Journal
+# Erick's UX Journal
+This is Erick's journal
