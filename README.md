@@ -7,8 +7,7 @@ with much less buttons and include additional features such as the integration o
 <figcaption>Figure 1: Simple single DIN car radio (Image sourced from <a href = https://en.wikipedia.org/wiki/Vehicle_audio#>Vehicle Audio Wikipedia </a>)</figcaption>
 </figure>
 <figure>
-  <img width="857" height="857" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" />  
-  
+  <img width="857" height="857" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" /><br>
 <figcaption>Figure2: A modern Infotainment system(Image sourced from <a href = https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391>Here</a>)</figcaption>
 </figure>
 
