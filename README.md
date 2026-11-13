@@ -6,7 +6,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
 <figcaption>Figure 1: Simple single DIN car radio (Image sourced from <a href = https://en.wikipedia.org/wiki/Vehicle_audio#>Vehicle Audio Wikipedia </a>)</figcaption>
 </figure>
 
-&nbsp
+&nbsp;
 
  The second type of car radio, which is more often seen in newer cars, is the touchscreen "infotainment" system which includes all the features of the older style radios in a much more sleek and modern looking package with much less buttons, and also includes additional features such as the integration of GPS navigation and hands free calling and texting. This type of radio can be seen in figure 2.
 <figure>
@@ -14,7 +14,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
 <figcaption>Figure 2: A modern Infotainment system(Image sourced from <a href = https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391>Here</a>)</figcaption>
 </figure>
 
-&nbsp
+&nbsp;
 
 I used to drive an older car that had a radio similar to figure 1, but the car I drive now has a radio that I feel is sort of a mix between both styles. This radio can be seen in figure 3.
 <figure>
