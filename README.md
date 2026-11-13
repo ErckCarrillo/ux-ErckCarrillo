@@ -26,7 +26,7 @@ One day while I was driving to school I was listening to the radio and had the e
 <figure>
 <img width="1668" height="890" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
 </figure>
-It might be a little hard to see in the photo but this button has the symbol that is **conventionally** used to denote the action of ejecting a CD from a CD player. When looking at the radio though
+It might be a little hard to see in the photo but this button has the symbol that is <strong>conventionally</strong> used to denote the action of ejecting a CD from a CD player. When looking at the radio though
 there doesn't seem to be a place to insert a CD. After pushing the button I was met with the following:
 
 &nbsp;
