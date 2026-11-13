@@ -10,6 +10,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
   <img width="857" height="857" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" /><br>
 <figcaption>Figure 2: A modern Infotainment system(Image sourced from <a href = https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391>Here</a>)</figcaption>
 </figure>
+
 I used to drive an older car that had a radio similar to figure 1, but the car I drive now has a radio that I feel is sort of a mix between both styles. This radio can be seen in figure 3.
 <figure>
 <img width="1668" height="1251" alt="Radio" src="https://github.com/user-attachments/assets/d4409c27-6afa-4856-8018-3419280c2864" />
