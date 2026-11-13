@@ -32,6 +32,10 @@ there doesn't seem to be a place to insert a CD. After pushing the button I was 
 &nbsp;
 
 <img width="640" height="360" alt="Radio_opening MOV" src="https://github.com/user-attachments/assets/1affca60-a361-4826-aa23-202c657df2d2" />
+The entire radios screen just flipped up and revealed a CD slot. The immediate <strong>feedback</strong> I got from pushing the button broke the <strong>mental model</strong> that I had of how radios with CD slots functioned. I was not expecting the entire screen to flip up. The button I pushed showed no <strong>mapping</strong> to indicate that this was a possible outcome of pushing the button.  Another thing that confused me after the screen flipped up was that the button labels where no longer visible. I was left looking at the following:
+
+<img width="1668" height="1251" alt="radio_opened" src="https://github.com/user-attachments/assets/cb867601-93bc-4060-b901-e5e10c031a2e" />
+
 
 
 
