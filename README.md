@@ -16,7 +16,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
 
 &nbsp;
 
-I used to drive an older car that had a radio similar to figure 1, but the car I drive now has a radio that I feel is sort of a mix between both styles. This radio can be seen in figure 3.
+I used to drive an older car that had a radio similar to figure 1, but the car I drive now has a radio that I feel is sort of a mix between both styles. This radio can be seen in figure 3. This radio has a touchscreen that allows you to navigate between several functions such as the radio or bluetooth, but it also has physical buttons for adjusting the volume and other functions.
 <figure>
 <img width="1668" height="1251" alt="Radio" src="https://github.com/user-attachments/assets/d4409c27-6afa-4856-8018-3419280c2864" />
 <figcaption>Figure 3: The car radio in my 2010 Nissan Cube</figcaption>
