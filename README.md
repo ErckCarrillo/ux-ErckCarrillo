@@ -21,7 +21,7 @@ I used to drive an older car that had a radio similar to figure 1, but the car I
 <img width="1668" height="1251" alt="Radio" src="https://github.com/user-attachments/assets/d4409c27-6afa-4856-8018-3419280c2864" />
 <figcaption>Figure 3: The car radio in my 2010 Nissan Cube</figcaption>
 </figure>
-## The interaction
+## The interaction ##
 One day while I was driving to school I was listening to the radio and had the exact screen shown in figure 3. I wanted to change the radio station by pressing the touchscreen right on that icon that shows two right facing arrows with a vertical line. Since I was driving I was not looking directly at the radio and reached my hand out to push the correct location on the touchscreen, but instead my finger accidentally pushed the button shown in figure 4. 
 <figure>
 <img width="1668" height="890" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
