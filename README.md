@@ -41,7 +41,7 @@ The entire radios screen just flipped up and revealed a CD slot. The immediate <
 
 &nbsp;
 
-The lack of labels on the side of the screen that correspond to the buttons label on the front of the screen made it difficult to <strong>recover from this error</strong>. I was left with an upright radio screen for the rest of my commute until I could park and examine the radio more thoroughly.
+The lack of labeling on the side of the screen that corresponds to the buttons label on the front of the screen made it difficult to <strong>recover from this error</strong>. I was left with an upright radio screen for the rest of my commute until I could park and examine the radio more thoroughly.
 
 
 
