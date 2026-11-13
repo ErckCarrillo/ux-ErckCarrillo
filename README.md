@@ -29,7 +29,7 @@ One day while I was driving to school I was listening to the radio and had the e
 It might be a little hard to see in the photo but this button has the symbol that is **conventionally** used to denote the action of ejecting a CD from a CD player. When looking at the radio though
 there doesn't seem to be a place to insert a CD. After pushing the button I was met with the following:
 
-
+&nbsp;
 
 <img width="640" height="360" alt="Radio_opening MOV" src="https://github.com/user-attachments/assets/1affca60-a361-4826-aa23-202c657df2d2" />
 
