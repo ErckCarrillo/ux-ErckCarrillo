@@ -30,6 +30,7 @@ It might be a little hard to see in the photo but this button has the symbol tha
 there doesn't seem to be a place to insert a CD. After pushing the button I was met with the following:
 
 
+
 <img width="640" height="360" alt="Radio_opening MOV" src="https://github.com/user-attachments/assets/1affca60-a361-4826-aa23-202c657df2d2" />
 
 
