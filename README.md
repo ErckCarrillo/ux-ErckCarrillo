@@ -27,6 +27,7 @@ I used to drive an older car that had a radio similar to figure 1, but the car I
 One day while I was driving to school I was listening to the radio and had the exact screen shown in figure 3. I wanted to change the radio station by pressing the touchscreen right on that icon that shows two right facing arrows with a vertical line. Since I was driving I was not looking directly at the radio and reached my hand out to push the correct location on the touchscreen, but instead my finger accidentally pushed the button shown in figure 4. 
 <figure>
 <img width="1668" height="890" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
+  <figcaption>Figure 4: Image showing button that I pushed by accident</figcaption>
 </figure>
 It might be a little hard to see in the photo but this button has the symbol that is <strong>conventionally</strong> used to denote the action of ejecting a CD from a CD player. When looking at the radio though
 there doesn't seem to be a place to insert a CD. After pushing the button I was met with the following:
