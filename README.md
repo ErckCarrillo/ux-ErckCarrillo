@@ -15,7 +15,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
  The second type of car radio, which is more often seen in newer cars, is the touchscreen "infotainment" system which includes all the features of the older style radios in a much more sleek and modern looking package with much less buttons, and also includes additional features such as the integration of GPS navigation and hands free calling and texting. This type of radio can be seen in figure 2.
  
 <figure>
-  <img width="857" height="857" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" /><br>
+  <img style="max-width: 100%; height: auto;" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" /><br>
 <figcaption>Figure 2: A modern Infotainment system(Image sourced from <a href = "https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391">Here</a>)</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
 I used to drive an older car that had a radio similar to figure 1, but the car I drive now has a radio that I feel is sort of a mix between both styles. This radio can be seen in figure 3. This radio has a touchscreen that allows you to navigate between several functions such as the radio or Bluetooth, but it also has physical buttons for adjusting the volume and other functions.
 
 <figure>
-<img width="1668" height="1251" alt="Radio" src="https://github.com/user-attachments/assets/d4409c27-6afa-4856-8018-3419280c2864" />
+<img style="max-width: 100%; height: auto;" alt="Radio" src="https://github.com/user-attachments/assets/d4409c27-6afa-4856-8018-3419280c2864" />
 <figcaption>Figure 3: The car radio in my 2010 Nissan Cube</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ I used to drive an older car that had a radio similar to figure 1, but the car I
 One day while I was driving to school I was listening to the radio and had the exact screen shown in figure 3. I wanted to change the radio station by pressing the touchscreen right on that icon that shows two right facing arrows with a vertical line. Since I was driving I was not looking directly at the radio and reached my hand out to push the correct location on the touchscreen, but instead my finger accidentally pushed the button shown in figure 4. 
 
 <figure>
-<img width="1668" height="890" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
+<img style="max-width: 100%; height: auto;" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
   <figcaption>Figure 4: Image showing button that I pushed by accident</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ It might be a little hard to see in the photo but this button has the symbol tha
 The entire radios screen just flipped up and revealed a CD slot. The immediate <strong>feedback</strong> I got from pushing the button broke the <strong>mental model</strong> that I had of how radios with CD slots functioned. I was not expecting the entire screen to flip up. The button I pushed showed no <strong>mapping</strong> to indicate that this was a possible outcome of pushing the button.  Another thing that confused me after the screen flipped up was that the button labels where no longer visible. I was left looking at the following:
 
 <figure>
-<img width="1668" height="1251" alt="radio_opened" src="https://github.com/user-attachments/assets/cb867601-93bc-4060-b901-e5e10c031a2e" />
+<img style="max-width: 100%; height: auto;" alt="radio_opened" src="https://github.com/user-attachments/assets/cb867601-93bc-4060-b901-e5e10c031a2e" />
 </figure>
 
 &nbsp;
