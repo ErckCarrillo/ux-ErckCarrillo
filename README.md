@@ -1,6 +1,6 @@
 ## Erick's UX Journal
-# Unintentional interaction with my cars unconventional CD player
-Radios have been a staple in automobiles since the 1920's with some of the first car radios simply being house radios modified to fit into cars anyway they could. Since car radios have been around for such a long time, this has allowed for the evolution of two different types of car radios, with the first being older style car radios like the one shown in figure 1 that are equipped with a CD player, a knob for volume, a small screen for letting you know what radio mode you are in, and several buttons for functions such as changing the radio station or ejecting a CD.
+# Unintentional interaction with my car's unconventional CD player
+Radios have been a staple in automobiles since the 1920s with some of the first car radios simply being house radios modified to fit into cars anyway they could. Since car radios have been around for such a long time, this has allowed for the evolution of two different types of car radios, with the first being older style car radios like the one shown in figure 1 that are equipped with a CD player, a knob for volume, a small screen for letting you know what radio mode you are in, and several buttons for functions such as changing the radio station or ejecting a CD.
 
 <figure>
   <img style="max-width: 100%; height: auto;" alt="Autoradio_panasonic" src="https://github.com/user-attachments/assets/a909a5c0-aaef-4d33-acc0-7bdd46f80d41" />
@@ -16,7 +16,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
  
 <figure>
   <img style="max-width: 100%; height: auto;" alt="chevy_radio" src="https://github.com/user-attachments/assets/ed5e5aaa-ba9c-49ae-b651-a848247fd9c7" /><br>
-<figcaption>Figure 2: A modern Infotainment system(Image sourced from <a href = "https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391">Here</a>)</figcaption>
+<figcaption>Figure 2: A modern infotainment system (Image sourced from <a href = "https://stingerdrive.com/products/horizon12-chevy-silverado-gmc-sierra-2014-2018-12-8-fully-integrated-radio-kit-plug-play?variant=46861998260391">Here</a>)</figcaption>
 </figure>
 
 &nbsp;
@@ -30,7 +30,7 @@ I used to drive an older car that had a radio similar to figure 1, but the car I
 
 ## The interaction ##
 
-One day while I was driving to school I was listening to the radio and had the exact screen shown in figure 3. I wanted to change the radio station by pressing the touchscreen right on that icon that shows two right facing arrows with a vertical line. Since I was driving I was not looking directly at the radio and reached my hand out to push the correct location on the touchscreen, but instead my finger accidentally pushed the button shown in figure 4. 
+One day while I was driving to school I was listening to the radio and had the exact screen shown in figure 3. I wanted to change the radio station by pressing the touchscreen right on that icon that shows two right-facing arrows with a vertical line. Since I was driving I was not looking directly at the radio and reached my hand out to push the correct location on the touchscreen, but instead my finger accidentally pushed the button shown in figure 4. 
 
 <figure>
 <img style="max-width: 100%; height: auto;" alt="Radio_zoomed" src="https://github.com/user-attachments/assets/b6a04004-1f25-471b-8b44-53ff2179afdf" />
@@ -49,7 +49,7 @@ It might be a little hard to see in the photo but this button has the symbol tha
 
 &nbsp;
 
-The entire radios screen just flipped up and revealed a CD slot. The immediate <strong>feedback</strong> I got from pushing the button broke the <strong>mental model</strong> that I had of how radios with CD slots functioned. I was not expecting the entire screen to flip up. The button I pushed showed no <strong>mapping</strong> to indicate that this was a possible outcome of pushing the button.  Another thing that confused me after the screen flipped up was that the button labels where no longer visible. I was left looking at the following:
+The entire radio's screen just flipped up and revealed a CD slot. The immediate <strong>feedback</strong> I got from pushing the button broke the <strong>mental model</strong> that I had of how radios with CD slots functioned. I was not expecting the entire screen to flip up. The button I pushed showed no <strong>mapping</strong> to indicate that this was a possible outcome of pushing the button.  Another thing that confused me after the screen flipped up was that the button labels were no longer visible. I was left looking at the following:
 
 <figure>
 <img style="max-width: 100%; height: auto;" alt="radio_opened" src="https://github.com/user-attachments/assets/cb867601-93bc-4060-b901-e5e10c031a2e" />
