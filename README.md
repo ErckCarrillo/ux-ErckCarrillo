@@ -6,9 +6,7 @@ Radios have been a staple in automobiles since the 1920's with some of the first
   <img width="1600" alt="Autoradio_panasonic" src="https://github.com/user-attachments/assets/a909a5c0-aaef-4d33-acc0-7bdd46f80d41" />
   &nbsp;
 <figcaption>
-  
-  Figure 1: Simple single DIN car radio (Image sourced from [Vehicle Audio Wikipedia] (https://en.wikipedia.org/wiki/Vehicle_audio#))
-  
+  Figure 1: Simple single DIN car radio (Image sourced from <a href="https://en.wikipedia.org/wiki/Vehicle_audio#">Vehicle Audio Wikipedia</a> )
 </figcaption>
 </figure>
 
